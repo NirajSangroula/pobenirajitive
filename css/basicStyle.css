@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	background-color: #ffda00;
+}
+header#main{
+	color: #f0ff05;
+    border: 3px solid blue;
+    background-color: #462294;
+    font-size: 3rem;
+    font-family: monospace;
+    padding: 18px;
+    text-align: center;
+    text-shadow: 2px 3px blue;
+    box-shadow: 2px 3px #883b3b;
+}
+div#mid{
+	min-height: 400px;
+}
+footer#footer{
+	color: red;
+}
